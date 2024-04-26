@@ -8,4 +8,4 @@ The model is trained on the fer2013_csv.csv dataset, which includes pixel-level 
 
 ## Model Architecture
 The model uses a Residual Network (ResNet) architecture with several Residual Blocks, including convolutional layers with ReLU activation and batch normalization. The network architecture involves initial convolutional layers followed by multiple Residual Blocks, average pooling, and a final dense layer with softmax activation for classification.
-<img src="/media/CNNsModel.png">
+<img src="/CNNsModel.png">
